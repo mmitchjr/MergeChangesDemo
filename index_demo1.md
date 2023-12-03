@@ -1,6 +1,5 @@
 # Wellness List
 
-1. A schedule planner
-2. Sleep
-3. Reading
-4. Talking to family
+1. Play video games
+2. Watch movies
+3. Exercise daily
